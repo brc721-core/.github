@@ -1,6 +1,6 @@
 ## Welcome to BRC721 👋 
 
-We simplify digital collectable creation on Bitcoin, providing a low-cost solution that empowers creators to unlock the full potential of Web3 using Ordinals on Bitcoin. 
+We simplify digital collectable creation on Bitcoin, providing a low-cost solution that empowers creators to unlock the full potential of Web3 using Ordinals on Bitcoin. Let's call this Bitcoin NFTs
 
 Join us in our mission:
 
