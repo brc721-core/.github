@@ -4,7 +4,7 @@ We simplify digital collectable creation on Bitcoin, providing a low-cost soluti
 
 Join us in our mission:
 
-📚 Contribute to our [open-source projects](https://github.com/d3vx-com).
+📚 Contribute to our [open-source projects](https://github.com/brc721-core).
 
 🐦 Stay updated by following us on [Twitter](https://twitter.com/brc_721).
 
